@@ -1,6 +1,7 @@
 ### Hi there 👋 Nidia Vanessa CR ✨✨
 
 **nidiavanessacr/nidiavanessacr** ✨✨
+✨ Ingeniería en Tecnologías de la Información y Comunicaciones ✨
 
 Here are some ideas to get you started:
 
