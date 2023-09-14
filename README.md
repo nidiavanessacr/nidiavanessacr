@@ -1,8 +1,6 @@
-### Hi there 👋
-#### Nidia Vanessa CR
+### Hi there 👋 Nidia Vanessa CR ✨✨
 
-<!--
-**nidiavanessacr/nidiavanessacr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nidiavanessacr/nidiavanessacr** ✨✨
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,3 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on diferentes proyectos.
 - 📫 How to reach me L221050151@pabellon.tecnm.mx
 - 📫 How to reach me vanessacr1402@gmail.com
--->
